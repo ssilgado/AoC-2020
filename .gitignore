@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Mac specific files
 .DS_Store
+
+# Eclipse bin file
+/bin/
